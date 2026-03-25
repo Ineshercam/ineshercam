@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi! My name is Inés Hernández
 
-<!--
-**Ineshercam/ineshercam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated from the IDMC with a master's in NLP (https://idmc.univ-lorraine.fr/idmc-master-degree-in-natural-language-processing/)
+I currently work as an AI engineer in a tech/legal company where I develop AI solutions to optimize processes
 
-Here are some ideas to get you started:
+## 🔬 Research & Papers
+I have published 2 papers related to AI/NLP
+- Leveraging large language models to enhance clustering-based topic modeling  — (https://link.springer.com/article/10.1007/s10115-025-02605-0)
+- Context-Aware Few-Shot Learning SPARQL Query Generation from Natural Language on an Aviation Knowledge Graph —  (https://www.mdpi.com/2504-4990/7/2/52)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- RAG-based conversational assistant — I developed an AI assistant to answer questions regarding private documentation using open-source and close-source models
+- NL-2-SPARQL — I developed a three-step system to translate NL questions to SPARQL queries to extract info from a KG
+- S2S assistant - I developed a voice-to-voice assistant to provide customer service
+
+## 🛠 Technical Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git" />
+</p>
+
+Python • PyTorch • Docker • Linux • Git
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ineshercam/ 
