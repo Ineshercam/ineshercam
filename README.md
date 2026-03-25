@@ -30,7 +30,8 @@ I have published 2 papers related to AI/NLP
   <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio,sklearn,regex" />
 </p>
 
-🎖️ ## Badges
+## 🎖️ Badges
+<p align="center">
 
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
@@ -38,7 +39,7 @@ I have published 2 papers related to AI/NLP
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+</p>
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/ineshercam/ 
