@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Inés Hernández 👋</h1>
+<h1 align="center">Hi! I'm Inés 👋</h1>
 
 <p align="center">
 AI Engineer | NLP & LLMs
