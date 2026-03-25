@@ -1,3 +1,8 @@
+<td>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNkdHliM3R0dTUwdzlvMGVkaHAwdjJmMWV1cWh6NGp6b3F3OWNkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/BUHSsBPSkDdTRPWCMy/giphy.gif
+" width="250"/>
+
 # Hi! My name is Inés Hernández
 
 I graduated from the IDMC with a master's in NLP (https://idmc.univ-lorraine.fr/idmc-master-degree-in-natural-language-processing/)
