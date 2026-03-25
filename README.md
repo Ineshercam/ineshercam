@@ -30,6 +30,10 @@ I have published 2 papers related to AI/NLP
   <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio,sklearn,regex" />
 </p>
 
+## Badges
+
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/ineshercam/ 
