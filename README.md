@@ -11,7 +11,7 @@ AI Engineer | NLP & LLMs
 I graduated from the IDMC with a master's in NLP (https://idmc.univ-lorraine.fr/idmc-master-degree-in-natural-language-processing/)
 I currently work as an AI engineer in a tech/legal company where I develop AI solutions to optimize processes
 
-## 🔬 Research & Papers
+## 📑 Research & Papers
 I have published 2 papers related to AI/NLP
 - Leveraging large language models to enhance clustering-based topic modeling  — (https://link.springer.com/article/10.1007/s10115-025-02605-0)
 - Context-Aware Few-Shot Learning SPARQL Query Generation from Natural Language on an Aviation Knowledge Graph —  (https://www.mdpi.com/2504-4990/7/2/52)
@@ -30,9 +30,14 @@ I have published 2 papers related to AI/NLP
   <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio,sklearn,regex" />
 </p>
 
-## Badges
+🎖️ ## Badges
 
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ## 📫 Contact
