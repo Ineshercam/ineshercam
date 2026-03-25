@@ -27,7 +27,7 @@ I have published 2 papers related to AI/NLP
 ## 🛠 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio,sklearn,regex" />
 </p>
 
 
