@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/your-gif.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRjZDE0ZjBmYzFueHkwdzBlYXUxaDM3cmlhd3l0a3psamg2bm9lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftGlEd1yBSSaWhV14M/giphy.gif)" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRjZDE0ZjBmYzFueHkwdzBlYXUxaDM3cmlhd3l0a3psamg2bm9lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftGlEd1yBSSaWhV14M/giphy.gif" width="400"/>
 </p>
 
 # Hi! My name is Inés Hernández
