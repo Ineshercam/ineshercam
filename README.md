@@ -1,8 +1,12 @@
+<h1 align="center">Hi! I'm Inés Hernández 👋</h1>
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRjZDE0ZjBmYzFueHkwdzBlYXUxaDM3cmlhd3l0a3psamg2bm9lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftGlEd1yBSSaWhV14M/giphy.gif" width="400"/>
+AI Engineer | NLP & LLMs
 </p>
 
-# Hi! My name is Inés Hernández
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRjZDE0ZjBmYzFueHkwdzBlYXUxaDM3cmlhd3l0a3psamg2bm9lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftGlEd1yBSSaWhV14M/giphy.gif" width="350"/>
+</p>
 
 I graduated from the IDMC with a master's in NLP (https://idmc.univ-lorraine.fr/idmc-master-degree-in-natural-language-processing/)
 I currently work as an AI engineer in a tech/legal company where I develop AI solutions to optimize processes
