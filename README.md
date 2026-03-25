@@ -16,10 +16,9 @@ I have published 2 papers related to AI/NLP
 ## 🛠 Technical Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio" />
 </p>
 
-Python • PyTorch • Docker • Linux • Git
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/ineshercam/ 
