@@ -22,6 +22,7 @@ I have published 2 papers related to AI/NLP
 - S2S assistant - I developed a voice-to-voice assistant to provide customer service
 - Classification of conversations - Fine-tuning of (L)LM for classification of private patients' data
 - Enhancing topic modeling - I proposed a prompting-based technique to perform context augmentation to enhance topic modeling.
+- AI course - I taught a course to non-technical students about AI and LLMs
 
 ## 🛠 Technical Skills
 
