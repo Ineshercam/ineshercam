@@ -20,11 +20,13 @@ I have published 2 papers related to AI/NLP
 - RAG-based conversational assistant — I developed an AI assistant to answer questions regarding private documentation using open-source and close-source models
 - NL-2-SPARQL — I developed a three-step system to translate NL questions to SPARQL queries to extract info from a KG
 - S2S assistant - I developed a voice-to-voice assistant to provide customer service
+- Classification of conversations - Fine-tuning of (L)LM for classification of private patients' data
+- Enhancing topic modeling - I proposed a prompting-based technique to perform context augmentation to enhance topic modeling.
 
 ## 🛠 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git,fastapi,sqlite,visualstudio,sklearn" />
 </p>
 
 
